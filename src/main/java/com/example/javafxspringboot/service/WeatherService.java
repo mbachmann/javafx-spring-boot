@@ -1,4 +1,4 @@
-package com.example.javafxspringboot;
+package com.example.javafxspringboot.service;
 
 import org.springframework.stereotype.Service;
 

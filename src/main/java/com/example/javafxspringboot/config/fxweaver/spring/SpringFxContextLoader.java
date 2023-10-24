@@ -1,7 +1,7 @@
-package com.example.javafxspringboot.fxweaver.spring;
+package com.example.javafxspringboot.config.fxweaver.spring;
 
 
-import com.example.javafxspringboot.fxweaver.core.FxContextLoader;
+import com.example.javafxspringboot.config.fxweaver.core.FxContextLoader;
 import org.springframework.context.ConfigurableApplicationContext;
 
 import java.util.function.Supplier;

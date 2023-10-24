@@ -1,4 +1,4 @@
-package com.example.javafxspringboot.fxweaver.core;
+package com.example.javafxspringboot.config.fxweaver.core;
 
 import javafx.fxml.FXMLLoader;
 

@@ -21,5 +21,7 @@ open module com.example.javafxweaverexample {
 
     exports com.example.javafxspringboot;
     exports com.example.javafxspringboot.entity;
+    exports com.example.javafxspringboot.ui;
+    exports com.example.javafxspringboot.service;
 
 }

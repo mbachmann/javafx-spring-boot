@@ -1,6 +1,7 @@
-package com.example.javafxspringboot;
+package com.example.javafxspringboot.ui;
 
-import com.example.javafxspringboot.fxweaver.core.FxWeaver;
+import com.example.javafxspringboot.config.fxweaver.core.FxWeaver;
+import com.example.javafxspringboot.JavaFxSpringBootApp;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Parent;

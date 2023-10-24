@@ -1,6 +1,7 @@
-package com.example.javafxspringboot;
+package com.example.javafxspringboot.ui;
 
-import com.example.javafxspringboot.fxweaver.core.FxmlView;
+import com.example.javafxspringboot.service.WeatherService;
+import com.example.javafxspringboot.config.fxweaver.core.FxmlView;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

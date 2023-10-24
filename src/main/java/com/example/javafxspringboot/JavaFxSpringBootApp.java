@@ -1,5 +1,6 @@
 package com.example.javafxspringboot;
 
+import com.example.javafxspringboot.ui.JavaFxApplication;
 import javafx.application.Application;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;

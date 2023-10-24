@@ -1,4 +1,4 @@
-package com.example.javafxspringboot.fxweaver.core;
+package com.example.javafxspringboot.config.fxweaver.core;
 
 /**
  * FxContextLoader provides a generic factory {@link FxWeaver} template for implementing a concrete context loader for a

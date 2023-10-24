@@ -1,8 +1,8 @@
-package com.example.javafxspringboot.fxweaver.spring;
+package com.example.javafxspringboot.config.fxweaver.spring;
 
-import com.example.javafxspringboot.fxweaver.core.FxControllerAndView;
-import com.example.javafxspringboot.fxweaver.core.FxWeaver;
-import com.example.javafxspringboot.fxweaver.core.LazyFxControllerAndView;
+import com.example.javafxspringboot.config.fxweaver.core.FxWeaver;
+import com.example.javafxspringboot.config.fxweaver.core.FxControllerAndView;
+import com.example.javafxspringboot.config.fxweaver.core.LazyFxControllerAndView;
 import javafx.scene.Node;
 
 import org.springframework.beans.factory.InjectionPoint;

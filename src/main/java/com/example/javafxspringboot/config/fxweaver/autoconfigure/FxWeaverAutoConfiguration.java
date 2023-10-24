@@ -1,9 +1,9 @@
-package com.example.javafxspringboot.fxweaver.autoconfigure;
+package com.example.javafxspringboot.config.fxweaver.autoconfigure;
 
-import com.example.javafxspringboot.fxweaver.core.FxControllerAndView;
-import com.example.javafxspringboot.fxweaver.core.FxWeaver;
-import com.example.javafxspringboot.fxweaver.spring.SpringFxWeaver;
-import com.example.javafxspringboot.fxweaver.spring.InjectionPointLazyFxControllerAndViewResolver;
+import com.example.javafxspringboot.config.fxweaver.core.FxControllerAndView;
+import com.example.javafxspringboot.config.fxweaver.core.FxWeaver;
+import com.example.javafxspringboot.config.fxweaver.spring.SpringFxWeaver;
+import com.example.javafxspringboot.config.fxweaver.spring.InjectionPointLazyFxControllerAndViewResolver;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 
